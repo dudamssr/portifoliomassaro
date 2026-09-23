@@ -16,9 +16,9 @@ Aqui estão os principais projetos apresentados no portfólio:
 
 | Projeto | Descrição | Links |
 | :--- | :--- | :--- |
-| **Pedra, Papel e Tesoura** | Jogo interativo clássico onde o jogador disputa contra a máquina em tempo real. | [Site](https://dudamssr.github.io/pedrapapel_girls/) \| [Código](https://github.com/dudamssr/pedrapapel_girls) |
+| **Pedra, Papel e Tesoura** | Jogo interativo clássico onde o jogador disputa contra a máquina em tempo real. | [Site](https://dudamssr.github.io/pedrapapel_girls/)\| [Código](https://github.com/dudamssr/pedrapapel_girls) |
 | **Spotify Clone** | Interface inspirada no Spotify para navegação de músicas e playlists. | [Site](https://dudamssr.github.io/spotify/) \| [Código](https://github.com/dudamssr/spotify) |
-| **World Cup** | Álbum digital interativo no tema da Copa do Mundo para gerenciamento de figurinhas. | [Site](https://dudamssr.github.io/worldcup/) \| [Código](https://github.com/dudamssr/worldcup) |
+| **World Cup** | Álbum digital interativo no tema da Copa do Mundo para gerenciamento de figurinhas. | [Site](https://dudamssr.github.io/spotify/) \| [Código](https://dudamssr.github.io/worldcup/) |
 
 ---
 
