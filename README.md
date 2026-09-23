@@ -24,9 +24,9 @@ Aqui estão os principais projetos apresentados no portfólio:
 
 ## Tecnologias Utilizadas
 
-- **HTML5** — Estrutura semântica
-- **CSS3** — Estilização, Flexbox, Grid e Responsividade
-- **JavaScript (ES6+)** — Manipulação de DOM e interatividade
+- **HTML** — Estrutura semântica
+- **CSS** — Estilização, Flexbox, Grid e Responsividade
+- **JavaScript** — Manipulação de DOM e interatividade
 - **Font Awesome & Google Fonts** — Ícones e tipografia
 - **GitHub Pages** — Hospedagem contínua dos projetos
 
